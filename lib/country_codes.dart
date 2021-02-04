@@ -780,7 +780,7 @@ List<Map<String, String>> codes = [
     "dial_code": "+31",
   },
   {
-    "name": "Netherlands Antilles",
+    "name": "Curaçao",
     "code": "AN",
     "dial_code": "+599",
   },
